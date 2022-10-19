@@ -1,10 +1,7 @@
 
 # Sistema de ventas con PHP y MySQL o MariaDB
 
-Este es el repositorio por si hay actualizaciones y esas cosas. La explicación y todo lo demás está en:
-
-[Pequeño, muy pequeño sistema de ventas con PHP y MySQL - Parzibyte's blog](https://parzibyte.me/blog/2018/03/13/pequeno-sistema-ventas-php/)
-
+Disensa Express
   
 
 # Instalar
